@@ -4,7 +4,7 @@ A binary classifier that predicts whether a patient has diabetes from eight diag
 
 ## Dataset
 
-[Pima Indians Diabetes Dataset](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database): 768 patients, 8 numeric features and a binary `Outcome` label (1 = diabetes). Check the license on the dataset page before redistributing the CSV.
+[Pima Indians Diabetes Dataset]: 768 patients, 8 numeric features and a binary `Outcome` label (1 = diabetes). Check the license on the dataset page before redistributing the CSV.
 
 | Feature | Description |
 |---|---|
