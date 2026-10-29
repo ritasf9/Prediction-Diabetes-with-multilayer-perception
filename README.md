@@ -34,9 +34,9 @@ Test-set results from the final notebook run (fill in after running the notebook
 
 | Model | Accuracy | Precision | Recall | F1 | ROC AUC | PR AUC |
 |---|---|---|---|---|---|---|
-| Logistic Regression | 0.760 | 0.633 |0.717 |0.673 |0.828 | 0.713|
-| Random Forest | 0.766|0.649 |0.698 |0.673 |0.818 |0.654 |
-| MLP |0.721 | 0.564| 0.830| 0.830| 0.828| 0.703|
+| Logistic Regression | 0.734 | 0.603 |0.704 |0.650 |0.815 | 0.678|
+| Random Forest | 0.747|0.674 |0.537 |0.598 |0.836 |0.716 |
+| MLP |0.740 | 0.606| 0.741| 0.667| 0.828| 0.672|
 
 ## Getting started
 
